@@ -1,0 +1,8 @@
+objects
+strings integers and floats they are kind of like the noun of a language
+
+
+Methods
+are kind of like the verb of a language
+puts gets chomp .to_i .to_s .to_f + * - /
+
